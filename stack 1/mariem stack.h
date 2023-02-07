@@ -1,5 +1,5 @@
-#ifndef MARIEM_STACK_H_INCLUDED
-#define MARIEM_STACK_H_INCLUDED
+#ifndef STACK_H_INCLUDED
+#define STACK_H_INCLUDED
 #include<stdint.h>
 /*
  * The following line is used to define datatype of the data
