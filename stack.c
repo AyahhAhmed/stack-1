@@ -1,4 +1,4 @@
-#include"mariem stack.h"
+#include"stack.h"
 void Stack_Init(stack_t *stack)
 {
      stack-> LastIndex=0;
